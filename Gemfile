@@ -16,7 +16,7 @@ gem "roadie-rails"
 gem "mimemagic"
 
 # Request at least nokogiri 1.6.7.2 because of security advisories
-gem "nokogiri", ">= 1.6.7.2"
+gem "nokogiri"
 
 # Request at least rails-html-sanitizer 1.0.3 because of security advisories 
 gem "rails-html-sanitizer", ">= 1.0.3"

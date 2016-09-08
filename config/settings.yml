@@ -20,9 +20,9 @@
 # Settings can be defined through the application in Admin -> Settings
 
 app_title:
-  default: Redmine
+  default: SketchupBIM
 app_subtitle:
-  default: Project management
+  default: 项目管理
 welcome_text:
   default:
 login_required:
@@ -77,7 +77,7 @@ per_page_options:
 search_results_per_page:
   default: 10
 mail_from:
-  default: redmine@example.net
+  default: powermedia@qq.com
 bcc_recipients:
   default: 1
 plain_text_mail:
